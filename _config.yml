@@ -12,22 +12,22 @@ url:
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/Osher-Map-Library/ant320-america250
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: "America 250: The Hidden Agenda"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: "Curated by the students of ANT 320: Anthropology and the Museum in Spring 2026"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "America 250: The Hidden Agenda was organized and curated by students enrolled in the spring '26 USM course ANT 320: Anthropology and the Museum, taught by Dr. David Shane Lowry"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: American history; semiquincentennial; public history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: fullerpault
 
 ##########
 # COLLECTION SETTINGS
@@ -50,11 +50,11 @@ metadata: demo-compoundobjects-metadata
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Osher Map Library and Smith Center for Cartographic Education"
+organization-link: https://oshermaps.org
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: /assets/img/OML_logo-white-text.png
+organization-logo-nav: /assets/img/OML_logo-white-text.png
 
 ##########
 # ROBOTS EXCLUDE
