@@ -2,3 +2,25 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+/* Custom Blockquote Styling */
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 1.25rem;
+    border-left: 5px solid #2d447c; /* Or your theme's primary color */
+    background-color: #f8f9fa;
+    font-style: italic;
+
+    /* Narrowing the block */
+    max-width: 80%;       /* Makes it narrower than the container */
+    margin-left: auto;    /* Centers the block if desired, or remove for left-align */
+    margin-right: auto;
+}
+
+/* Adjusting for mobile so it doesn't get TOO narrow on small screens */
+@media (max-width: 576px) {
+    blockquote {
+        max-width: 100%;
+    }
+}
