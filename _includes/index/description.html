@@ -14,8 +14,8 @@
 <div class="card mb-3">
     <div class="card-body">
         <{{ include.heading_level | default: 'h2' | strip }} class="card-title h5">Description</{{ include.heading_level | default: 'h2' | strip }}>
-        <p class="card-text">{{ site.description }}</p>
+        <p class="card-text"><em>America 250: The Hidden Agenda</em>> was curated by the students in the spring course of 2026 ANT 320: Anthropology and the Museu, taught by Dr. David Shane Lowry, Assistant Professor of Anthropology in the Department of Geography-Anthropology. This exhibition is a response to <em>Founding Memories</em>, the Osher Map Library's semiquincentennial exhibition.</p>
         {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}{% if about > 0 %}
-        <a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
+        <a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/introduction.html' | relative_url }}" >Enter the Exhibition &raquo;</a>{% endif %}
     </div>
 </div>
