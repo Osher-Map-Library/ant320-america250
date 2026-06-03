@@ -18,7 +18,7 @@ After Indian Removal, in the early 1830s, the U.S. government continued to steal
 
 This is illustrated within the history of the Dawes Act of 1887, which was also known as the General Allotment Act. This law changed how land was owned. Instead of land being held by American Indian tribal nations, as a whole, it was divided into individual plots and given to Native families and individuals. The goal of this Act was to force American Indian peoples to adopt European-American ways of surveying, controlling and stripping ecological and agricultural landscapes. After Indian-owned land was divided, any leftover land (called “surplus”) was sold to non-American Indian settlers.
 
-{% include feature/image.html objectid="ant320_17" %}
+{% include feature/image.html objectid="ant320_17" width="50" %}
 
 This caused a huge loss of Native land, which becomes boxed or squared. Maps from this time, including the 1908 map of Tripp County, South Dakota, clearly show this squaring of land. Land is divided into small, square sections, eventually forming a grid pattern. This geometrical alignment sits harshly juxtaposed to earlier maps of the American landscape (that show very few signs of this squaring) and illustrates the civil domination of land as it was ushered from American Indian ownership to the coffers of private and public land trusts and owners (National Archives; Osher Map Library). (This is where and when the discipline of “civil engineering” began to become important in the United States.)
 
@@ -26,7 +26,7 @@ The Dawes Act replaced Indigenous land engineering and ownership with a system t
 
 Records from the National Archives illustrate how the United Stated Federal government measured, surveyed, and officially recorded land divisions. Meanwhile, recent research helps confirm that this process was planned and systematic. Studies using GIS technology –like those focusing on land at Standing Rock –illustrate how American Indian land was divided into smaller and more disrupted pieces over time. These studies verify what we otherwise see in historical maps: the fact that American Indian land loss was not accidental or incidental, but carefully organized through laws and policies (MDPI, 2021).
 
-{% include feature/image.html objectid="ant320_16" %}
+{% include feature/image.html objectid="ant320_16" width="75" %}
 
 When all of these maps and sources are observed and analyzed together, they tell a clear and powerful story. American Indian land began as large and connected, but over time it became smaller, divided, and narcissistically controlled. Laws like the Indian Removal Act and the Dawes Act, along with treaties that were created in conditions of violence and duress, played a major role in this change. These policies did more than take land.  They affected how American Indian peoples lived, practiced their ceremonies and politics, and connected to their communities and sacred places/spaces.
 

@@ -34,10 +34,9 @@ Enjoy.
 Think.
 Do work to repair. 
 
-<p class="blockquote-footer text-end fs-5">David Shane Lowry, PhD</br>
-Assistant Professor</br>
-Anthropology</br>
-Director: Indigenous Relationships Lab @ University of Southern Maine</p>
+<p class="blockquote-footer text-end fs-5">David Shane Lowry, PhD<br>
+Assistant Professor, Anthropology<br>
+Director, Indigenous Relationships Lab @ University of Southern Maine</p>
 
 {% include feature/button.html text="Next Section - Act I: Truth in America &raquo;" link="/act1-truth.html" color="primary" size="lg" centered="true" %}
 

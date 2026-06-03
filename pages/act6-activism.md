@@ -26,9 +26,11 @@ Although the island never fully became an Indigenous cultural site and museum, t
 
 Acts of protest are protected by the United States Constitution. American citizens have the right to speak, assemble, and petition under the First Amendment of that Constitution. We can be critical of aspects of American society, and we can speak against injustices. Some recent protests include Black Lives Matter, opposition to the Dakota Access Pipeline (NoDAPL) and No Kings. It is important to understand how rights to protest within the United States have been viewed and to recognize that protests will continue to shape American life.
 
+{% include feature/image.html objectid="ant320_39" %}
+
 The image “Destruction of Tea at Boston Harbor” depicts colonial Americans throwing tea into the Boston harbor. This is one of the most well-known examples of American protest. Over 100 participants, all white men, dressed as Mohawk peoples to disguise themselves and to avoid charges of treason. During this protest, approximately 340 chests of tea were thrown into the Boston Harbor to protest British tax policies, embodying the idea of “No Taxation Without Representation”. The efforts of this protest eventually led to the creation of the First Continental Congress, and ultimately aided in the creation of the United States as a separate nation.
 
-{% include feature/image.html objectid="ant320_39;ant320_38" %}
+{% include feature/image.html objectid="ant320_38" %}
 
 The Civil Rights movement in the mid 20th century is a well-known and often referenced time of change and activism in American history. Here, we have a flier inviting people to join the March on Washington in 1963. This poster was created by *March on Washington for Jobs and Freedom*. The March on Washington, held on August 28th, 1963, included over 250,000 peaceful protesters, and ended with participants gathered at the Lincoln Memorial to hear Dr. Martin Luther King Jr. recite his “I Have A Dream” speech. Reports indicate that the gathering was neat, orderly, and had very few arrests or incidents with police authorities. This massive protest, which was recognized as the largest demonstration for Civil and Human Rights in the United States at that time, was instrumental in placing pressure onto the Kennedy administration to initiate a strong Civil Rights bill.     
 
