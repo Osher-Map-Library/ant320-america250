@@ -108,4 +108,4 @@ If there is a future World’s Fair in the United States, it ought to depict the
 
 <p class="blockquote-footer text-end fs-5">Matthew Bresette</p>
 
-{% include feature/button.html text="Next Section - Act IV: Space Wars &raquo;" link="/act4-wars.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section - Act IV: Space Wars &raquo;" link="/ant320-america250/act4-wars.html" color="primary" size="lg" centered="true" %}

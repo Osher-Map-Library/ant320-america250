@@ -38,5 +38,5 @@ Do work to repair.
 Assistant Professor, Anthropology<br>
 Director, Indigenous Relationships Lab @ University of Southern Maine</p>
 
-{% include feature/button.html text="Next Section - Act I: Truth in America &raquo;" link="/act1-truth.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section - Act I: Truth in America &raquo;" link="/ant320-america250/act1-truth.html" color="primary" size="lg" centered="true" %}
 

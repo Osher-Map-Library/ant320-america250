@@ -34,4 +34,4 @@ This history is still important today. Many reservations are limited in size and
 
 <p class="blockquote-footer text-end fs-5">Madison Viveiros</p>
 
-{% include feature/button.html text="Next Section - Act III: A Big Show &raquo;" link="/act3-show.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section - Act III: A Big Show &raquo;" link="/ant320-america250/act3-show.html" color="primary" size="lg" centered="true" %}

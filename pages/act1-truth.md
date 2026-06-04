@@ -28,4 +28,4 @@ So the question remains: how do we know what is true? In today's world, differen
 
 <p class="blockquote-footer text-end fs-5">Olivia Healy</p>
 
-{% include feature/button.html text="Next Section - Act II: Control &raquo;" link="/act2-control.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section - Act II: Control &raquo;" link="/ant320-america250/act2-control.html" color="primary" size="lg" centered="true" %}

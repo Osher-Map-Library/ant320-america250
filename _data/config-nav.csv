@@ -1,13 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
 Exhibit,,
-Introduction,/introduction.html/,Exhibit
-Act I: Truth,/act1-truth.html/,Exhibit
-Act II: Control,/act2-control.html/,Exhibit
-Act III: A Big Show,/act3-show.html/,Exhibit
-Act IV: Space Wars,/act4-wars.html/,Exhibit
-Act V: The Marks of Colonial Ownership,/act5-ownership.html/,Exhibit
-Act VI: Activism,/act6-activism.html/,Exhibit
+Introduction,/introduction.html,Exhibit
+Act I: Truth,/act1-truth.html,Exhibit
+Act II: Control,/act2-control.html,Exhibit
+Act III: A Big Show,/act3-show.html,Exhibit
+Act IV: Space Wars,/act4-wars.html,Exhibit
+Act V: The Marks of Colonial Ownership,/act5-ownership.html,Exhibit
+Act VI: Activism,/act6-activism.html,Exhibit
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,

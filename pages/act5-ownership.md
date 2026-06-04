@@ -86,4 +86,4 @@ You’ve reached the end of this exhibit. Assuming you knew who Thomas Edison wa
 
 <p class="blockquote-footer text-end fs-5">Joseph McGeoghegan</p>
 
-{% include feature/button.html text="Next Section - Act VI: Activism &raquo;" link="/act6-activism.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section - Act VI: Activism &raquo;" link="/ant320-america250/act6-activism.html" color="primary" size="lg" centered="true" %}

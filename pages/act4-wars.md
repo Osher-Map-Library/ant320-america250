@@ -83,4 +83,4 @@ What does this view of “U.S. territory” show us about the nature of America�
 
 <p class="blockquote-footer text-end fs-5">Suzanna Sylvain</p>
 
-{% include feature/button.html text="Next Section - Act V: The Marks of Colonial Ownership &raquo;" link="/act5-ownership.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section - Act V: The Marks of Colonial Ownership &raquo;" link="/ant320-america250/act5-ownership.html" color="primary" size="lg" centered="true" %}

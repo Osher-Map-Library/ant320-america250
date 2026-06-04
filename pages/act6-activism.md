@@ -48,4 +48,4 @@ I am holding onto this dream, and I wish to inspire other people to consider how
 
 <p class="blockquote-footer text-end fs-5">Abigail Clark</p>
 
-{% include feature/button.html text="Browse all items in the exhibit &raquo;" link="/browse.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Browse all items in the exhibit &raquo;" link="/ant320-america250/browse.html" color="primary" size="lg" centered="true" %}
